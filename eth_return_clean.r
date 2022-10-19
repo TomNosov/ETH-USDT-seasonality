@@ -132,10 +132,7 @@ ggplot(data=clean_binance_h, mapping=aes(x=Hour, y=delta))+
 
 
 
-## example from https://ggplot2tutor.com/tutorials/summary_statistics
-#eth_clean %>% 
-#  ggplot(aes(x = Hour, y = delta)) +
-#  geom_col()
+
 
 
 
